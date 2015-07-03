@@ -18,6 +18,8 @@ super-digit(98741) = super-digit(9+8+7+4+1)
                   = 2.
 ```
 
-Regulamin konkursu znajduje się pod tym [adresem](http://tech.viacom.com/warsawsdc/confitura2015/).
+Regulamin konkursu znajduje się pod tym [adresem](http://tech.viacom.com/warsawsdc/confitura2015/Regulamin_konkurs_Viacom_programmer_adventure_2015.pdf).
 
-We are hiring! Check out our [open positions](http://tech.viacom.com/careers/).
+Check out our Confitura 2015 site [here](http://tech.viacom.com/warsawsdc/confitura2015/)
+
+We are hiring! Visit our [career site](http://tech.viacom.com/careers/).
